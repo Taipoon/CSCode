@@ -74,7 +74,7 @@ def restore_target(gateway_ip, gateway_mac, target_ip, target_mac):
 
 
 interface = 'Wi-Fi'
-target_ip = "10.22.133.14"
+target_ip = "10.22.130.144"
 gateway_ip = " 10.22.143.254"
 
 packet_count = 10000
